@@ -1,21 +1,21 @@
 Python is one the most popular programming languages for data professionals, which makes it a great addition to your data analytics toolbox!
 In this file we'll learn how Python compares to other programming languages data professionals use, including R, Java, and C++.
 
-### Five considerations of programming languages
+##Five considerations of programming languages
 While Python serves as one of the most prevalent and robust programming languages in data analysis, it's not the exclusive option. Numerous data professionals opt for multiple programming languages. Each language possesses its own set of advantages and disadvantages. This course focuses on evaluating the following aspects: speed, accessibility, variable handling, emphasis on data science, and programming paradigm.
 
-#### Speed
+###Speed 
 Several elements influence the speed of program execution, encompassing compile time, runtime, hardware specifications, installed dependencies, and code efficiency. Typically, low-level programming languages offer swifter performance; however, mastering and utilizing them can be more challenging.
 
-#### Approachability
+###Approachability
 Approachability denotes the ease with which novice users can initiate their usage of a language. Acquiring proficiency in new programming languages can prove challenging, contingent upon their syntax and overall architecture. Syntax encompasses the arrangement of code words, symbols, positioning, and punctuation. Semantics imbue significance into these structures through the utilization of variables and objects. Furthermore, variables contribute to the adaptability of programs, and objects serve as containers for housing data.
 
-#### Variables
+###Variables
 In code, information is stored within variables, which are named containers that reserve memory locations for holding values. The treatment of variables by a programming language can influence the core operations or kernel speed of a system. Certain languages utilize static variables, maintaining a value throughout the entire program execution. Alternatively, others adopt dynamic variables, enabling values to be assigned during program runtime. Additionally, some languages support declarative variables, empowering programs to dictate the placement of variables.
 
-#### Data Science Focus
+###Data Science Focus
 Programming languages possess distinct characteristics that make them better suited for particular tasks in data analysis. As a result, programmers often leverage specific languages for various data science undertakings.
 
-#### Programming Paradigm
+###Programming Paradigm
 Programming languages can be categorized into object-oriented, functional, or imperative paradigms. Object-oriented languages revolve around data objects as their central concept. Functional programming languages, on the other hand, are centered around the use of functions. Imperative languages are structured around code statements that can modify the program's state.
 
